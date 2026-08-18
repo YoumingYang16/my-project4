@@ -1,4 +1,4 @@
-# CAN201 Network Coursework
+# Network 
 
 This repository contains two CAN201 coursework components that demonstrate practical networking concepts with Python socket programming, Mininet, and the Ryu SDN framework.
 
